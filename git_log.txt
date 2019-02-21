@@ -1,0 +1,17 @@
+commit c60e0c12bb8894d17407c13453f32dcb6c81dfe1
+Author: heksy <valentyna.kulisch@gmail.com>
+Date:   Wed Feb 20 23:03:53 2019 +0100
+
+    added gitignore
+
+commit b9ad46a55d072df16237f2f21a0fec120ed98400
+Author: heksy <valentyna.kulisch@gmail.com>
+Date:   Wed Feb 20 16:54:59 2019 +0100
+
+    added two files
+
+commit 96193dcfa537bed7bbfedba13272e255c9959baa
+Author: heksy <valentyna.kulisch@gmail.com>
+Date:   Wed Feb 20 16:42:55 2019 +0100
+
+    added readme.txt
