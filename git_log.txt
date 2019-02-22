@@ -1,3 +1,15 @@
+commit 6131003c6d06ea785171a1803532c6994582586a
+Author: heksy <valentyna.kulisch@gmail.com>
+Date:   Thu Feb 21 14:57:46 2019 +0100
+
+    changed ignore file
+
+commit 945e677c361161251bfac3a51ba6e5addb4eab97
+Author: heksy <valentyna.kulisch@gmail.com>
+Date:   Thu Feb 21 14:56:46 2019 +0100
+
+    added log file
+
 commit c60e0c12bb8894d17407c13453f32dcb6c81dfe1
 Author: heksy <valentyna.kulisch@gmail.com>
 Date:   Wed Feb 20 23:03:53 2019 +0100
